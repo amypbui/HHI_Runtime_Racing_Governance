@@ -1,0 +1,8 @@
+{
+  "event_id":"evt-001",
+  "decision_boundary":"ENFORCED",
+  "behavioral_drift_score":12,
+  "escalation_level":"MONITOR",
+  "stop_authority":false,
+  "runtime_source":"HHI_Runtime_Racing_Governance"
+}
