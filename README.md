@@ -35,3 +35,20 @@ Telemetry → AI Recommendation Layer → Governance Runtime → Escalation Engi
 Canonical Source: https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
 DOI: https://doi.org/10.5281/zenodo.20044740
 ORCID: https://orcid.org/0009-0009-4806-1949
+
+## Runtime Demo
+
+The runtime continuously evaluates simulated racing telemetry and dynamically adjusts governance state visibility.
+
+Example telemetry conditions monitored:
+- tire degradation
+- weather volatility
+- AI confidence instability
+- fuel strategy conditions
+
+Example governance responses:
+- STABLE
+- ESCALATE
+- STOP_AUTHORITY
+
+The system demonstrates execution-time governance operating during live AI-assisted racing decision conditions.
